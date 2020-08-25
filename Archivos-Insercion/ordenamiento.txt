@@ -1,0 +1,22 @@
+Numero de elementos: 6
+ Arreglo desordenado: -1 5 2 14 13 6 
+Arreglo ordenado: -1 2 5 6 13 14 
+Suma total: 39
+
+ORDENAMIENTO POR INSERCION 
+ Numero de elementos: 5
+ Arreglo desordenado: 1 6 0 9 7 
+Arreglo ordenado: 0 1 6 7 9 
+Suma total: 23
+
+ORDENAMIENTO POR INSERCION 
+ Numero de elementos: 7
+ Arreglo desordenado: -1 -5 10 7 12 5 4 
+Arreglo ordenado: -5 -1 4 5 7 10 12 
+Suma total: 32
+
+ORDENAMIENTO POR INSERCION 
+ Numero de elementos: 8
+ Arreglo desordenado: 1 5 2 8 12 -2 4 9 
+Arreglo ordenado: -2 1 2 4 5 8 9 12 
+Suma total: 39

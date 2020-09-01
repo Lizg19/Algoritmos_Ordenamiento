@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598994231 source:c:\users\acer\desktop\liz\mergesort\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+

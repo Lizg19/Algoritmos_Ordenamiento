@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599146227 source:c:\users\acer\desktop\liz\quicksort\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+

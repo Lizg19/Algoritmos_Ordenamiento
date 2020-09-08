@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1599599272 source:c:\users\acer\desktop\liz\heapsort\main.cpp
+	<iostream>
+	"uno.h"
+	"dos.h"
+	"tres.h"
+
+1599599805 c:\users\acer\desktop\liz\heapsort\uno.h
+	<iostream>
+	<fstream>
+
+1599599066 c:\users\acer\desktop\liz\heapsort\dos.h
+	<iostream>
+
+1599599805 c:\users\acer\desktop\liz\heapsort\tres.h
+	<iostream>
+	<fstream>
+
